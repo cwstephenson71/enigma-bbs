@@ -13,6 +13,7 @@ All paths mentioned here are relative to the ENiGMA½ checkout directory.
 | `/docs`             | These docs ;-)
 | `/dropfiles`        | Dropfiles created for [local doors]({{ site.baseurl }}{% link modding/local-doors.md %})
 | `/logs`             | Logs. See [Monitoring Logs]({{ site.baseurl }}{% link troubleshooting/monitoring-logs.md %})
+| ./mail              | Default ftn Echomail folder (For Tossing/Packing messages) (ie ../mail/ftn_in ../mail/ftn_out)
 | `/misc`             | Stuff with no other home; reset password templates, common password lists, other random bits
 | `/mods`             | User mods. See [Modding]({{ site.baseurl }}{% link modding/existing-mods.md %})
 | `/node_modules`     | External libraries required by ENiGMA½, installed when you run `npm install`
